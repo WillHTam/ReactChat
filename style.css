@@ -1,0 +1,13 @@
+*{
+  font-family: Helvetica;
+}
+
+body{  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li{
+  color: #555;
+}
